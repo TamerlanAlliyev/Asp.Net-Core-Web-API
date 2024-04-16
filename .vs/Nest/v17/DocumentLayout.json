@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0903BBB-E47A-498A-89DE-6BC0BDEAAC2F}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0903BBB-E47A-498A-89DE-6BC0BDEAAC2F}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4148F7-8ED5-47DF-AEE8-AE00CD329654}|src\\WebAPI\\WebAPI.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4148F7-8ED5-47DF-AEE8-AE00CD329654}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4148F7-8ED5-47DF-AEE8-AE00CD329654}|src\\WebAPI\\WebAPI.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CD4148F7-8ED5-47DF-AEE8-AE00CD329654}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0903BBB-E47A-498A-89DE-6BC0BDEAAC2F}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0903BBB-E47A-498A-89DE-6BC0BDEAAC2F}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0903BBB-E47A-498A-89DE-6BC0BDEAAC2F}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0903BBB-E47A-498A-89DE-6BC0BDEAAC2F}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFC495-28CC-4BFC-A7A9-E20F9A62C3AB}|src\\Application\\Application.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFC495-28CC-4BFC-A7A9-E20F9A62C3AB}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45C871-BFD8-4DDB-9549-92A46F5D8F74}|src\\Domain\\Domain.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA45C871-BFD8-4DDB-9549-92A46F5D8F74}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45C871-BFD8-4DDB-9549-92A46F5D8F74}|src\\Domain\\Domain.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA45C871-BFD8-4DDB-9549-92A46F5D8F74}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45C871-BFD8-4DDB-9549-92A46F5D8F74}|src\\Domain\\Domain.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA45C871-BFD8-4DDB-9549-92A46F5D8F74}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45C871-BFD8-4DDB-9549-92A46F5D8F74}|src\\Domain\\Domain.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\domain\\common\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA45C871-BFD8-4DDB-9549-92A46F5D8F74}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFC495-28CC-4BFC-A7A9-E20F9A62C3AB}|src\\Application\\Application.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02FFC495-28CC-4BFC-A7A9-E20F9A62C3AB}|src\\Application\\Application.csproj|solutionrelative:src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45C871-BFD8-4DDB-9549-92A46F5D8F74}|src\\Domain\\Domain.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA45C871-BFD8-4DDB-9549-92A46F5D8F74}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4148F7-8ED5-47DF-AEE8-AE00CD329654}|src\\WebAPI\\WebAPI.csproj|c:\\users\\rog\\desktop\\tamerlan\\code academy\\back-end\\4.asp.net core web api\\projects\\nest\\src\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD4148F7-8ED5-47DF-AEE8-AE00CD329654}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\WebAPI\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:12:55.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "src\\WebAPI\\WebAPI.http",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "src\\WebAPI\\WebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-16T19:12:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:11:23.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwBQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:02:29.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:49:45.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:37:13.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "src\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T17:19:52.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA3wBMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:34:13.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\BaseAuditableEntity.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:31:30.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntities.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Domain\\Common\\BaseEntities.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\BaseEntities.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Domain\\Common\\BaseEntities.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\BaseEntities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:25:06.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "src\\WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "src\\WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T17:20:05.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "src\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Application\\Application.csproj",
+              "RelativeToolTip": "src\\Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T17:19:48.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\Tamerlan\\CODE ACADEMY\\BACK-END\\4.Asp.Net Core Web API\\Projects\\Nest\\src\\Domain\\Domain.csproj",
+              "RelativeToolTip": "src\\Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T17:18:35.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
